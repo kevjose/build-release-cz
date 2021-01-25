@@ -14,7 +14,7 @@ jobs:
         with:
           token: ${{ secrets.GH_ACTION }}
       - name: Bump version and push tag
-        uses: TriPSs/conventional-changelog-action@3.1.1
+        uses: TriPSs/conventional-changelog-action@v3.1.1
         with:
           github-token: ${{ secrets.GH_ACTION }}
           git-message: 'chore(release): {version}'
