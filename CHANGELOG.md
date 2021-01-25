@@ -1,4 +1,13 @@
-# 1.1.0 (2021-01-25)
+# [1.2.0](https://github.com/kevjose/build-release-cz/compare/v1.1.0...v1.2.0) (2021-01-25)
+
+
+### Features
+
+* **linting:** adds eslint and prettier config ([92087c5](https://github.com/kevjose/build-release-cz/commit/92087c52a444ae11120362ef7da8d078019862ba))
+
+
+
+# [1.1.0](https://github.com/kevjose/build-release-cz/compare/635ce738453c7e4e7676b64105e5b0d819c1eda6...v1.1.0) (2021-01-25)
 
 
 ### Bug Fixes
