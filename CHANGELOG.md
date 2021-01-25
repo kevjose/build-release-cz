@@ -1,3 +1,12 @@
+# [1.3.0](https://github.com/kevjose/build-release-cz/compare/v1.2.0...v1.3.0) (2021-01-25)
+
+
+### Features
+
+* **components:** add button component ([#5](https://github.com/kevjose/build-release-cz/issues/5)) ([4fa33cb](https://github.com/kevjose/build-release-cz/commit/4fa33cbd71522fd8d01ab3c6126fe3a266a741f2))
+
+
+
 # [1.2.0](https://github.com/kevjose/build-release-cz/compare/v1.1.0...v1.2.0) (2021-01-25)
 
 
