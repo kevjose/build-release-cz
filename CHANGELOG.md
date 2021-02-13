@@ -1,8 +1,9 @@
-# [2.0.0](https://github.com/kevjose/build-release-cz/compare/v1.3.0...v2.0.0) (2021-02-13)
+# [3.0.0](https://github.com/kevjose/build-release-cz/compare/v1.3.0...v3.0.0) (2021-02-13)
 
 
 ### Features
 
+* ***.:** add a new feature foo ([f7d4a6b](https://github.com/kevjose/build-release-cz/commit/f7d4a6b5807eb4c79d7a08e26ba8d5e0c4fee69e))
 * **commitlint:** add commilint ([96881c3](https://github.com/kevjose/build-release-cz/commit/96881c36b55dfd25ae4cff52faaac7837396e5bc))
 * **release:** reverts back to commitizen ([fa46076](https://github.com/kevjose/build-release-cz/commit/fa46076d2ea1f23dca260fda12921f608b16d4bd))
 
