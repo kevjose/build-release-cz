@@ -5,3 +5,4 @@ This example is a basic starting point for using [Tailwind CSS](https://tailwind
 ## new feature
 - add few new line to the feature as chore
 - add new permission rules
+- fix a typo
