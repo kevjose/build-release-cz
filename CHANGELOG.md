@@ -1,3 +1,17 @@
+# [2.0.0](https://github.com/kevjose/build-release-cz/compare/v1.3.0...v2.0.0) (2021-02-13)
+
+
+* XYZ-003/add-commit-lint (#6) ([c4a398f](https://github.com/kevjose/build-release-cz/commit/c4a398fbb7cb14785edb14034b52e15ba114fd31)), closes [#6](https://github.com/kevjose/build-release-cz/issues/6)
+
+
+### BREAKING CHANGES
+
+* add commitlint in favor of commitizen
+
+* chore(docs): add new doc section
+
+
+
 # [1.3.0](https://github.com/kevjose/build-release-cz/compare/v1.2.0...v1.3.0) (2021-01-25)
 
 
