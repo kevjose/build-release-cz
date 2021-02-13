@@ -1,3 +1,12 @@
+# [3.1.0](https://github.com/kevjose/build-release-cz/compare/v3.0.0...v3.1.0) (2021-02-13)
+
+
+### Features
+
+* **permission:** add a new feature to incorporate newer permissions ([f5152be](https://github.com/kevjose/build-release-cz/commit/f5152be644fd07202598b1a3b67440018df65818))
+
+
+
 # [3.0.0](https://github.com/kevjose/build-release-cz/compare/v1.3.0...v3.0.0) (2021-02-13)
 
 
